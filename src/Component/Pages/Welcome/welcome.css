@@ -1,0 +1,19 @@
+.welcom button{
+    width: 350px;
+    height: 100px;
+    margin-top: 40px;
+    background-color: #e6284e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.welcom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
